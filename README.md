@@ -18,5 +18,5 @@
 <img src="images/after+delete.png" alt="После удаления" title="После удаления">
 
 Запуск командой 
-npm install
-npm start
+1) npm install                                                                                    
+2) npm start
